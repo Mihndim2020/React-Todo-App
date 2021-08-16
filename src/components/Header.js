@@ -17,7 +17,7 @@ const Header = () => {
         color: "#ececec",
         textTransform: "lowercase",
         textAlign: "center",
-      }}>todos</h1>
+      }}>Todos</h1>
     </header>
   )
 }
